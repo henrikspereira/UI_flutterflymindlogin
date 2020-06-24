@@ -1,6 +1,7 @@
 # flymind_login
 
 A new Flutter project.
+https://raw.githubusercontent.com/henrikspereira/UI_flutterflymindlogin/master/Screenshot/Screenshot1.png
 
 ## Getting Started
 
